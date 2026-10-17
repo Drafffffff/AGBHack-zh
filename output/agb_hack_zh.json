@@ -1,0 +1,316 @@
+{
+  "game": "AGB_HACK",
+  "scope": "静态文本中文测试版：中文点阵字库、菜单、物品、怪物、帮助、百科、谣言和游戏消息；保留职业英文首字母逻辑ID、随机专名、咒文、ASCII指令键。已验证启动、职业装备、背包、帮助、英文许愿解析与SRAM重放。未全流程通关或认证旧英文存档兼容。",
+  "rom_bytes": 671048,
+  "rom_sha256": "017346b4a8d42e4891290c424f535c754e3e1dcc620de69ba19caef00e1f88d7",
+  "original_sha256": "05c8066d65c0b5e584b0844cea5a861a22343709ce923f1e3d8133e8e92cd061",
+  "bps_sha256": "39fa4d9630b7ef654732fc29897d3330df5cc1c97882c91c41b9b3df0b69125e",
+  "bps_roundtrip": "pass",
+  "runtime": {
+    "rom": "/Users/drafff/Documents/ChatGPT/汉化/AGB_HACK/build/engine_demo.gba",
+    "sha256": "017346b4a8d42e4891290c424f535c754e3e1dcc620de69ba19caef00e1f88d7",
+    "steps": [
+      {
+        "frames": 300,
+        "name": "boot"
+      },
+      {
+        "frames": 4,
+        "keys": [
+          3
+        ]
+      },
+      {
+        "frames": 180,
+        "name": "after_name"
+      },
+      {
+        "frames": 4,
+        "keys": [
+          3
+        ]
+      },
+      {
+        "frames": 180,
+        "name": "after_start"
+      },
+      {
+        "frames": 4,
+        "keys": [
+          8
+        ]
+      },
+      {
+        "frames": 180,
+        "name": "after_a"
+      },
+      {
+        "frames": 12,
+        "keys": [
+          8
+        ]
+      },
+      {
+        "frames": 60
+      },
+      {
+        "frames": 12,
+        "keys": [
+          3
+        ]
+      },
+      {
+        "frames": 60,
+        "name": "inventory_menu"
+      },
+      {
+        "frames": 12,
+        "keys": [
+          7
+        ]
+      },
+      {
+        "frames": 60,
+        "name": "actions_menu"
+      },
+      {
+        "frames": 12,
+        "keys": [
+          11
+        ]
+      },
+      {
+        "frames": 20
+      },
+      {
+        "frames": 12,
+        "keys": [
+          10
+        ]
+      },
+      {
+        "frames": 20
+      },
+      {
+        "frames": 12,
+        "keys": [
+          5
+        ]
+      },
+      {
+        "frames": 20
+      },
+      {
+        "frames": 12,
+        "keys": [
+          5
+        ]
+      },
+      {
+        "frames": 20
+      },
+      {
+        "frames": 12,
+        "keys": [
+          5
+        ]
+      },
+      {
+        "frames": 20
+      },
+      {
+        "frames": 12,
+        "keys": [
+          7
+        ]
+      },
+      {
+        "frames": 20
+      },
+      {
+        "frames": 1,
+        "name": "question_selector"
+      },
+      {
+        "frames": 12,
+        "keys": [
+          11
+        ]
+      },
+      {
+        "frames": 20
+      },
+      {
+        "frames": 180,
+        "name": "help_page"
+      },
+      {
+        "frames": 12,
+        "keys": [
+          11
+        ]
+      },
+      {
+        "frames": 30
+      },
+      {
+        "frames": 12,
+        "keys": [
+          11
+        ]
+      },
+      {
+        "frames": 30
+      },
+      {
+        "frames": 12,
+        "keys": [
+          3
+        ]
+      },
+      {
+        "frames": 60,
+        "name": "inventory_final"
+      },
+      {
+        "frames": 12,
+        "keys": [
+          7
+        ]
+      },
+      {
+        "frames": 60,
+        "name": "actions_final"
+      }
+    ],
+    "audio_frames": 932741,
+    "nonzero_audio_batches": 67
+  },
+  "engine": {
+    "glyphs": 1482,
+    "internal_english_ids": 4,
+    "fixed_width_grammar_tokens": 11,
+    "role_id_prefixes": true,
+    "translations": 2149,
+    "skipped": 0,
+    "pointer_fixes": 1506,
+    "storage_mode": "contiguous_books_in_place_others_pointer_relocation",
+    "render_hook": "0x809005c",
+    "wish_hook": "0x8090208",
+    "wish_parser_original_ascii_literals": 16,
+    "wish_pointer_map_count": 1265,
+    "payload_size": 33836,
+    "size": 671048,
+    "sha256": "017346b4a8d42e4891290c424f535c754e3e1dcc620de69ba19caef00e1f88d7",
+    "chinese_noun_plural_disabled_at": "0x08006278",
+    "wish_validation": 7,
+    "runtime_checks": {
+      "new_save_reset_replay": "passed",
+      "new_save_cold_process_replay": "passed",
+      "inventory_roles_and_quantity_names": "passed",
+      "movement_doors_pet_message": "passed",
+      "enemy_combat": "not_verified",
+      "original_user_saves": "not_accessed_or_verified"
+    },
+    "wish_restore_stack_bytes": 384
+  },
+  "translation_validation": {
+    "catalogs": {
+      "AGB_HACK/translations/compact_zh.json": 2103,
+      "AGB_HACK/translations/suffix_zh.json": 44,
+      "AGB_ROGUE/translations/zh.json": 654
+    },
+    "format_errors": [],
+    "originals": [
+      {
+        "game": "AGB_Hack",
+        "original_sha256": "05c8066d65c0b5e584b0844cea5a861a22343709ce923f1e3d8133e8e92cd061",
+        "unchanged": true
+      },
+      {
+        "game": "AGB_Rogue",
+        "original_sha256": "15bd749c33b1d1779b22e12f5293a377398261eb5c7195f5d7dee455e902aab8",
+        "unchanged": true
+      }
+    ]
+  },
+  "wishes": {
+    "original": "GBA Memory: Detected SRAM savegame\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nROM globals changed 0 long sword -> ptr 02011518 type 80 quan 1 steps 5662 PC 08000102\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nROM globals changed 0 potion of healing -> ptr 02011518 type 114 quan 1 steps 3588 PC 08000102\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nROM globals changed 0 scroll of identify -> ptr 02011518 type 146 quan 1 steps 4282 PC 08000102\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nROM globals changed 0 wand of wishing -> ptr 02011518 type 158 quan 1 steps 3150 PC 08000102\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nROM globals changed 0 +2 leather armor -> ptr 02011518 type 106 quan 1 steps 6881 PC 08000102\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nROM globals changed 0 2 daggers -> ptr 02011518 type 82 quan 2 steps 6069 PC 08000102\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nROM globals changed 0 ring of protection -> ptr 02011518 type 192 quan 1 steps 4267 PC 08000102\n",
+    "zh": "GBA Memory: Detected SRAM savegame\nGBA DMA: Starting DMA 1 0x0802A38C -> 0x040000A0 (B640:4000)\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nROM globals changed 0 long sword -> ptr 020117b0 type 80 quan 1 steps 474532 PC 08000102\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nROM globals changed 0 potion of healing -> ptr 020117b0 type 114 quan 1 steps 472458 PC 08000102\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nROM globals changed 0 scroll of identify -> ptr 020117b0 type 146 quan 1 steps 473152 PC 08000102\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nROM globals changed 0 wand of wishing -> ptr 020117b0 type 158 quan 1 steps 472020 PC 08000102\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nROM globals changed 0 +2 leather armor -> ptr 020117b0 type 106 quan 1 steps 475751 PC 08000102\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nROM globals changed 0 2 daggers -> ptr 020117b0 type 82 quan 2 steps 474939 PC 08000102\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nGBA DMA: Invalid DMA source address: 0x00000000\nROM globals changed 0 ring of protection -> ptr 020117b0 type 192 quan 1 steps 473137 PC 08000102\n"
+  },
+  "cold_save_validation": {
+    "rom_sha256": "017346b4a8d42e4891290c424f535c754e3e1dcc620de69ba19caef00e1f88d7",
+    "new_process_test_sram_replay": "pass",
+    "entire_frame_equal": true,
+    "sram_bytes": 32768
+  },
+  "validation": {
+    "sha256": "017346b4a8d42e4891290c424f535c754e3e1dcc620de69ba19caef00e1f88d7",
+    "wish_cases": [
+      {
+        "input": "long sword",
+        "original_type": 80,
+        "translated_type": 80,
+        "quantity": 1,
+        "unchanged_global_rom_pointers": true,
+        "returned_normally": true
+      },
+      {
+        "input": "potion of healing",
+        "original_type": 114,
+        "translated_type": 114,
+        "quantity": 1,
+        "unchanged_global_rom_pointers": true,
+        "returned_normally": true
+      },
+      {
+        "input": "scroll of identify",
+        "original_type": 146,
+        "translated_type": 146,
+        "quantity": 1,
+        "unchanged_global_rom_pointers": true,
+        "returned_normally": true
+      },
+      {
+        "input": "wand of wishing",
+        "original_type": 158,
+        "translated_type": 158,
+        "quantity": 1,
+        "unchanged_global_rom_pointers": true,
+        "returned_normally": true
+      },
+      {
+        "input": "+2 leather armor",
+        "original_type": 106,
+        "translated_type": 106,
+        "quantity": 1,
+        "unchanged_global_rom_pointers": true,
+        "returned_normally": true
+      },
+      {
+        "input": "2 daggers",
+        "original_type": 82,
+        "translated_type": 82,
+        "quantity": 2,
+        "unchanged_global_rom_pointers": true,
+        "returned_normally": true
+      },
+      {
+        "input": "ring of protection",
+        "original_type": 192,
+        "translated_type": 192,
+        "quantity": 1,
+        "unchanged_global_rom_pointers": true,
+        "returned_normally": true
+      }
+    ],
+    "runtime": {
+      "new_save_reset_replay": "passed",
+      "new_save_cold_process_replay": "passed",
+      "inventory_roles_and_quantity_names": "passed",
+      "movement_doors_pet_message": "passed",
+      "enemy_combat": "not_verified",
+      "original_user_saves": "not_accessed_or_verified"
+    }
+  }
+}

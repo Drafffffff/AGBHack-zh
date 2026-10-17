@@ -1,0 +1,50 @@
+{
+  "rom": "/Users/drafff/Documents/ChatGPT/\u6c49\u5316/AGB_HACK/original/AGB_Hack.bin",
+  "sha256": "05c8066d65c0b5e584b0844cea5a861a22343709ce923f1e3d8133e8e92cd061",
+  "steps": [
+    {
+      "frames": 300,
+      "name": "boot"
+    },
+    {
+      "frames": 4,
+      "keys": [
+        3
+      ]
+    },
+    {
+      "frames": 180,
+      "name": "after_name"
+    },
+    {
+      "frames": 4,
+      "keys": [
+        3
+      ]
+    },
+    {
+      "frames": 180,
+      "name": "after_start"
+    },
+    {
+      "frames": 4,
+      "keys": [
+        8
+      ]
+    },
+    {
+      "frames": 180,
+      "name": "after_a"
+    },
+    {
+      "frames": 4,
+      "keys": [
+        3
+      ]
+    },
+    {
+      "frames": 180,
+      "name": "menu"
+    }
+  ]
+}

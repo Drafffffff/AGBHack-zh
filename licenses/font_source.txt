@@ -1,0 +1,3 @@
+Fusion Pixel 8px monospaced zh_hans
+https://github.com/TakWolf/fusion-pixel-font
+Font glyph bitmaps extracted without scaling; SIL OFL 1.1 and upstream component notices are included.

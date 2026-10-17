@@ -1,0 +1,27 @@
+{
+  "catalog_occurrences": 2544,
+  "translated_unique": 2103,
+  "kept_unique": 423,
+  "excluded_unique": 9,
+  "unclassified": 0,
+  "compact_changes": 97,
+  "overlength": [],
+  "format_errors": [],
+  "font_encoding": "ASCII=1 byte; non-ASCII glyph=2 bytes",
+  "master": "full_zh.json",
+  "runtime_dictionary": "compact_zh.json",
+  "terminology": {
+    "potion": "药水",
+    "scroll": "卷轴",
+    "wand": "魔杖",
+    "ring": "戒指",
+    "armor": "护甲",
+    "Amulet of Yendor": "延多护符"
+  },
+  "notes": [
+    "保留随机商人/鬼魂专名、未鉴定卷轴咒文、内部选项键及诊断字符串",
+    "帮助与百科以原ROM固定行数分配中文；原版键名保留ASCII",
+    "短名称在紧凑版一致缩写，完整版保存完整中文术语",
+    "格式符顺序和类型均保留；百分号地图符号行不按printf解释"
+  ]
+}

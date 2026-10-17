@@ -1,0 +1,487 @@
+[
+  {
+    "source": "A ring of adornment protects against Nymphs.",
+    "full": "装饰戒指能防水仙女。",
+    "compact": "装饰戒指能防仙女。"
+  },
+  {
+    "source": "A spear will hit an ettin.",
+    "full": "长矛会击中双头巨人。",
+    "compact": "长矛会击中双首。"
+  },
+  {
+    "source": "A xan is a small animal. It doesn't reach higher than your leg.",
+    "full": "刺腿虫很小，只到你腿高。",
+    "compact": "虻很小，只到你腿高。"
+  },
+  {
+    "source": "Affairs with Nymphs are often very expensive.",
+    "full": "与水仙女交往通常很贵。",
+    "compact": "与仙女交往通常很贵。"
+  },
+  {
+    "source": "Afraid of Mimics? Try to wear a ring of true seeing.",
+    "full": "怕拟态怪？戴真视戒指。",
+    "compact": "怕拟怪？戴真视戒指。"
+  },
+  {
+    "source": "An ettin is hard to kill; an imp is hard to hit. See the difference?",
+    "full": "双头巨人难杀，小恶魔难打中。",
+    "compact": "双首难杀，魔难打中。"
+  },
+  {
+    "source": "Eating a tengu is like eating a Nymph.",
+    "full": "吃天狗就像吃水仙女。",
+    "compact": "吃天狗就像吃仙女。"
+  },
+  {
+    "source": "Eventually you will come to admire the swift elegance of a retreating nymph.",
+    "full": "你终将欣赏水仙女逃跑的优雅。",
+    "compact": "你终将欣赏仙女逃跑的优雅。"
+  },
+  {
+    "source": "If a chameleon mimics a mace, it really mimics a Mimic mimicking a mace.",
+    "full": "变色龙变钉头锤，其实是变成拟态锤的拟态怪。",
+    "compact": "变色龙变钉锤，其实是变成拟态锤的拟怪。"
+  },
+  {
+    "source": "It might be a good idea to offer the unicorn a ruby.",
+    "full": "给独角兽红宝石可能是好主意。",
+    "compact": "给独角兽红玉可能是好主意。"
+  },
+  {
+    "source": "Not even a spear will hit a Xorn.",
+    "full": "连长矛也打不中索恩兽。",
+    "compact": "连长矛也打不中索恩。"
+  },
+  {
+    "source": "Nymphs and nurses like beautiful rings.",
+    "full": "水仙女和护士喜欢漂亮戒指。",
+    "compact": "仙女和护士喜欢漂亮戒指。"
+  },
+  {
+    "source": "Nymphs are very pleased when you call them by their real name: Lorelei.",
+    "full": "叫水仙女真名罗蕾莱，她会高兴。",
+    "compact": "叫仙女真名罗蕾莱，她会高兴。"
+  },
+  {
+    "source": "Only a Nymph knows how to unlock chains.",
+    "full": "只有水仙女知道怎样解开锁链。",
+    "compact": "只有仙女知道怎样解开锁链。"
+  },
+  {
+    "source": "Plain nymphs are harmless.",
+    "full": "普通水仙女无害。",
+    "compact": "普通仙女无害。"
+  },
+  {
+    "source": "There is nothing like eating a Mimic.",
+    "full": "没有什么比吃拟态怪更棒。",
+    "compact": "没有什么比吃拟怪更棒。"
+  },
+  {
+    "source": "They say that a spear will hit a Xorn.",
+    "full": "据说长矛能打中索恩兽。",
+    "compact": "据说长矛能打中索恩。"
+  },
+  {
+    "source": "They say that a spear will hit an ettin.",
+    "full": "据说长矛能打中双头巨人。",
+    "compact": "据说长矛能打中双首。"
+  },
+  {
+    "source": "     level.",
+    "full": "     的楼梯。",
+    "compact": "     楼梯。"
+  },
+  {
+    "source": "     earlier.",
+    "full": "     陷阱种类。",
+    "compact": "     陷阱。"
+  },
+  {
+    "source": "     drops seven \"a\"s.",
+    "full": "     丢弃七件“a”物品。",
+    "compact": "     丢七件a物品。"
+  },
+  {
+    "source": "     is found.",
+    "full": "     东西为止。",
+    "compact": "     为止。"
+  },
+  {
+    "source": "            nw, \"u\": ne, \"b\": sw, \"n\":",
+    "full": "            “u”东北，“b”西南，",
+    "compact": "            u东北，b西南，n东南"
+  },
+  {
+    "source": "            se.",
+    "full": "            “n”东南。",
+    "compact": "            ."
+  },
+  {
+    "source": "     messages).",
+    "full": "     更早的消息。",
+    "compact": "     旧消息。"
+  },
+  {
+    "source": "  \"20s\" or \"40.\".",
+    "full": "  例如“20s”或“40.”。",
+    "compact": "  如20s或40."
+  },
+  {
+    "source": "   three times as large as an imp and",
+    "full": "   个老家伙，有小恶魔三",
+    "compact": "   个老家伙，有魔三"
+  },
+  {
+    "source": "   just as frightened as the imps",
+    "full": "   子。他显然和小恶魔",
+    "compact": "   子。他显然和魔"
+  },
+  {
+    "source": "M  a mimic",
+    "full": "M 拟态怪",
+    "compact": "M 拟怪"
+  },
+  {
+    "source": "N  a nymph",
+    "full": "N 水仙女",
+    "compact": "N 仙女"
+  },
+  {
+    "source": "X  a xorn",
+    "full": "X 索恩兽",
+    "compact": "X 索恩"
+  },
+  {
+    "source": "e  an ettin",
+    "full": "e 双头巨人",
+    "compact": "e 双首"
+  },
+  {
+    "source": "i  an imp;",
+    "full": "i 小恶魔",
+    "compact": "i 魔"
+  },
+  {
+    "source": "   ... imps ... little creatures of two",
+    "full": "   ……小恶魔……身高",
+    "compact": "   ……魔……身高"
+  },
+  {
+    "source": "   An 'imp' is an off-shoot or cutting.",
+    "full": "   “小恶魔”原意是分枝或插条。",
+    "compact": "   “魔”原意是分枝或插条。"
+  },
+  {
+    "source": "x  a xan;",
+    "full": "x 刺腿虫",
+    "compact": "x 虻"
+  },
+  {
+    "source": "   The xan were animals sent to prick",
+    "full": "   刺腿虫是被派去",
+    "compact": "   虻是被派去"
+  },
+  {
+    "source": "z  a zruty;",
+    "full": "z 山野巨怪",
+    "compact": "z 山怪"
+  },
+  {
+    "source": "   The zruty are wild and gigantic",
+    "full": "   山野巨怪是狂野巨大的",
+    "compact": "   山怪是狂野巨大的"
+  },
+  {
+    "source": "ruby",
+    "full": "红宝石",
+    "compact": "红玉"
+  },
+  {
+    "source": "red",
+    "full": "红色",
+    "compact": "红"
+  },
+  {
+    "source": "black onyx",
+    "full": "黑缟玛瑙",
+    "compact": "黑缟石"
+  },
+  {
+    "source": "wire",
+    "full": "金属丝",
+    "compact": "丝线"
+  },
+  {
+    "source": "an %s",
+    "full": "一件%s",
+    "compact": "%s"
+  },
+  {
+    "source": "a %s",
+    "full": "一件%s",
+    "compact": "%s"
+  },
+  {
+    "source": "gem",
+    "full": "宝石",
+    "compact": "玉"
+  },
+  {
+    "source": " (%s)",
+    "full": " （%s）",
+    "compact": " (%s)"
+  },
+  {
+    "source": " gem",
+    "full": " 宝石",
+    "compact": " 玉"
+  },
+  {
+    "source": " a",
+    "full": " 一",
+    "compact": " "
+  },
+  {
+    "source": "of ",
+    "full": "中的 ",
+    "compact": "之 "
+  },
+  {
+    "source": "Pickup: %s.",
+    "full": "自动拾取：%s。",
+    "compact": "拾取:%s."
+  },
+  {
+    "source": " (unpaid)",
+    "full": " （未付款）",
+    "compact": " (未付)"
+  },
+  {
+    "source": "Zap",
+    "full": "挥杖",
+    "compact": "杖"
+  },
+  {
+    "source": "Wield",
+    "full": "持武器",
+    "compact": "持用"
+  },
+  {
+    "source": "Call",
+    "full": "命名种类",
+    "compact": "类名"
+  },
+  {
+    "source": "You read: \"%s\".",
+    "full": "你读到：“%s”。",
+    "compact": "读到:\"%s\"."
+  },
+  {
+    "source": "Call %s %s: ",
+    "full": "将%s称作%s： ",
+    "compact": "将%s叫%s: "
+  },
+  {
+    "source": "%s misses.",
+    "full": "%s没有击中。",
+    "compact": "%s未中。"
+  },
+  {
+    "source": "It hits!",
+    "full": "它击中了！",
+    "compact": "它击中!"
+  },
+  {
+    "source": "%s hits!",
+    "full": "%s击中了！",
+    "compact": "%s击中!"
+  },
+  {
+    "source": "see",
+    "full": "看见",
+    "compact": "见"
+  },
+  {
+    "source": "dip",
+    "full": "浸泡",
+    "compact": "浸"
+  },
+  {
+    "source": "get",
+    "full": "变得",
+    "compact": "变"
+  },
+  {
+    "source": "poor",
+    "full": "可怜的",
+    "compact": "可怜"
+  },
+  {
+    "source": "You hit it.",
+    "full": "你击中了它。",
+    "compact": "你击中它。"
+  },
+  {
+    "source": "%s ate %s.",
+    "full": "%s吃掉了%s。",
+    "compact": "%s吃了%s。"
+  },
+  {
+    "source": "You find a mimic.",
+    "full": "你发现了拟态怪。",
+    "compact": "你发现了拟怪。"
+  },
+  {
+    "source": "The door actually was a Mimic.",
+    "full": "那扇门竟是拟态怪。",
+    "compact": "那扇门竟是拟怪。"
+  },
+  {
+    "source": "The chest was a Mimic!",
+    "full": "那箱子是拟态怪！",
+    "compact": "那箱子是拟怪！"
+  },
+  {
+    "source": "Wait! That's a Mimic!",
+    "full": "等等，那是拟态怪！",
+    "compact": "等等，那是拟怪！"
+  },
+  {
+    "source": "You miss it.",
+    "full": "你未能击中它。",
+    "compact": "你没击中它。"
+  },
+  {
+    "source": "You miss %s.",
+    "full": "你未能击中%s。",
+    "compact": "你没击中%s。"
+  },
+  {
+    "source": "\"Splash!\"",
+    "full": "“扑通！”",
+    "compact": "\"扑通!\""
+  },
+  {
+    "source": "zap",
+    "full": "挥杖",
+    "compact": "杖"
+  },
+  {
+    "source": "dead mimic",
+    "full": "拟态怪尸体",
+    "compact": "拟怪尸体"
+  },
+  {
+    "source": "dead nymph",
+    "full": "水仙女尸体",
+    "compact": "仙女尸体"
+  },
+  {
+    "source": "dead xorn",
+    "full": "索恩兽尸体",
+    "compact": "索恩尸体"
+  },
+  {
+    "source": "dead ettin",
+    "full": "双头巨人尸体",
+    "compact": "双首尸体"
+  },
+  {
+    "source": "dead imp",
+    "full": "小恶魔尸体",
+    "compact": "魔尸体"
+  },
+  {
+    "source": "dead xan",
+    "full": "刺腿虫尸体",
+    "compact": "虻尸体"
+  },
+  {
+    "source": "dead zruty",
+    "full": "山野巨怪尸体",
+    "compact": "山怪尸体"
+  },
+  {
+    "source": "mace",
+    "full": "钉头锤",
+    "compact": "钉锤"
+  },
+  {
+    "source": "sling",
+    "full": "投石索",
+    "compact": "投索"
+  },
+  {
+    "source": "opal",
+    "full": "蛋白石",
+    "compact": "欧泊"
+  },
+  {
+    "source": "onyx",
+    "full": "缟玛瑙",
+    "compact": "缟石"
+  },
+  {
+    "source": "bat",
+    "full": "蝙蝠",
+    "compact": "蝠"
+  },
+  {
+    "source": "imp",
+    "full": "小恶魔",
+    "compact": "魔"
+  },
+  {
+    "source": "orc",
+    "full": "兽人",
+    "compact": "兽"
+  },
+  {
+    "source": "nymph",
+    "full": "水仙女",
+    "compact": "仙女"
+  },
+  {
+    "source": "mimic",
+    "full": "拟态怪",
+    "compact": "拟怪"
+  },
+  {
+    "source": "xorn",
+    "full": "索恩兽",
+    "compact": "索恩"
+  },
+  {
+    "source": "xan",
+    "full": "刺腿虫",
+    "compact": "虻"
+  },
+  {
+    "source": "zruty",
+    "full": "山野巨怪",
+    "compact": "山怪"
+  },
+  {
+    "source": "ettin",
+    "full": "双头巨人",
+    "compact": "双首"
+  },
+  {
+    "source": "vial",
+    "full": "细颈瓶",
+    "compact": "药瓶"
+  },
+  {
+    "source": "What Is",
+    "full": "查询符号",
+    "compact": "查询"
+  },
+  {
+    "source": "All",
+    "full": "全部",
+    "compact": "全"
+  }
+]
